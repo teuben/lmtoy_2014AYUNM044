@@ -30,15 +30,20 @@ on['J014341.2'] = [ 51650, 51651, 51652, 51654, 51655,
                     51656, 51658, 51659, 51660, 52706,
                     52707, 52708, 52710, 52711, 52712]
 
+on['J132934.18'] = [ 36530, 36531, 36533, 36534, 36536, 36537]
+
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
 pars1['J004056.01'] = ""
 pars1['J011646.77'] = ""
 pars1['J014341.2']  = ""
+pars1['J132934.18'] = ""
+
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
 pars2['J004056.01'] = ""
 pars2['J011646.77'] = ""
 pars2['J014341.2']  = ""
+pars2['J132934.18'] = ""
 
 runs.mk_runs(project, on, pars1, pars2)
