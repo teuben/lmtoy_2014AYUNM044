@@ -4,7 +4,7 @@ This project observed 39 sources in 318 obsnums with RSR in 2015,
 between  and 6-dec and 22-dec. Possibly earlier,
 the current lmtinfo script labels them as 1-jan-1970.
 
-See also https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.3911B (B22)
+See also Berman et al. 2022 - https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.3911B
 
 ## Sources
 
@@ -96,13 +96,13 @@ J234659.05
 det:
 PJ011646.8  x
 PJ014341.2  x
-PJ022634.0
-PJ030510.6
-PJ074851.7
-PJ074852.6
-PJ084648.6
-PJ084650.1
-PJ105322.6
+PJ022634.0        -
+PJ030510.6        2015AYUNM130
+PJ074851.7        -
+PJ074852.6	  2015AYUNM130
+PJ084648.6	  2015AYUNM130
+PJ084650.1	  2014AWILG016
+PJ105322.6  	  2015AYUNM130
 PJ112713.4
 PJ113805.5
 PJ113921.7
