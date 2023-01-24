@@ -35,9 +35,9 @@ on['J132934.18'] = [ 36530, 36531, 36533, 36534, 36536, 36537]
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
 pars1['J004056.01'] = ""
-pars1['J011646.77'] = ""
-pars1['J014341.2']  = ""
-pars1['J132934.18'] = ""
+pars1['J011646.77'] = "xlines=110.7,0.3,73.7,0.5"
+pars1['J014341.2']  = "xlines=110.0,0.3"
+pars1['J132934.18'] = "xlines=75.8,0.3"
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
